@@ -1,5 +1,9 @@
 # refund 0.1-14
 
+* added pco ridge regression see ?poridge
+
+# refund 0.1-14
+
 * add `fpca.lfda()` function
 
 * add functions and data set from refund.shiny package
